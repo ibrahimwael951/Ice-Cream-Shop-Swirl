@@ -9,12 +9,11 @@ This is a simple **Ice Cream Shop** project made for **Swirl (HackClub.com)** us
 
 ## 📥 How to Download  
 
-1. **Clone the repository:**  
+1. **Open your terminal or command prompt.**  
+2. **Run the following command to clone the repository:**  
    ```sh
    git clone https://github.com/YOUR-USERNAME/Ice-Cream-Shop.git
 
-cd Ice-Cream-Shop
 
 
-
-Replace `ibrahimwael951` with your actual GitHub username. Let me know if you need modifications! 🚀
+ `ibrahimwael951`. Let me know if you need modifications! 🚀
