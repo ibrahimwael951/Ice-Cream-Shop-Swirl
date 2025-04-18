@@ -12,7 +12,7 @@ This is a simple **Ice Cream Shop** project made for **Swirl (HackClub.com)** us
 1. **Open your terminal or command prompt.**  
 2. **Run the following command to clone the repository:**  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/Ice-Cream-Shop.git
+   git clone https://github.com/ibrahimwael951/Ice-Cream-Shop.git
 
 
 
